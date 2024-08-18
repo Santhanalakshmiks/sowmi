@@ -5,7 +5,7 @@ class fan
     {     
         Scanner obj1=new Scanner(system.in)
         {
-            int a=obj1.next int();
+            int a=obj1.next int();fdtrgysahvyh
             int b=obj1.next int();
             int c=obj1.next int();
             {
